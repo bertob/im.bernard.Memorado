@@ -1,7 +1,7 @@
 {
     "id" : "im.bernard.Memorado",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "memorado",
     "finish-args" : [
@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                    "tag": "v0.16.0"
+                    "url": "https://gitlab.gnome.org/GNOME/blueprint-compiler",
+                    "tag": "v0.18.0"
                 }
             ]
         },
@@ -41,8 +41,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/wbernard/Memorado.git",
-                    "tag" : "0.5",
-                    "commit" : "49a1b9fc42bf00700dbf5dcac4e6e4727c7e9bea"
+                    "tag" : "0.6",
+                    "commit" : "79eac4155c2d0b95fbfb48557b88b335265aea4d"
                 }
             ]
         }
